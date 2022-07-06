@@ -1,0 +1,86 @@
+/*
+Fase 01
+justify-content: right;
+
+Fase 02
+justify-content: center;
+
+Fase 03
+justify-content: space-around;
+
+Fase 04
+justify-content: space-between;
+
+Fase 05
+align-items: end;
+
+Fase 06
+justify-content: center;
+align-items: center;
+
+Fase 07
+justify-content: space-around;
+align-items: end;
+
+Fase 08
+flex-direction: row-reverse;
+
+Fase 09
+flex-direction: column;
+
+Fase 10
+flex-direction: row-reverse;
+justify-content: left;
+
+Fase 11
+flex-direction: column;
+justify-content: end;
+
+Fase 12
+flex-direction: column-reverse;
+justify-content: space-between;
+
+Fase 13
+justify-content: center;
+flex-direction: row-reverse;
+align-items: end;
+
+Fase 14
+order: 1;
+
+Fase 15
+order: -1;
+
+Fase 16
+align-self: end;
+
+Fase 17
+align-self: end;
+order: 1;
+
+Fase 18
+flex-wrap: wrap;
+
+Fase 19
+flex-wrap: wrap;
+flex-direction: column;
+
+Fase 20
+flex-wrap: wrap; flex-direction: column;
+
+Fase 21
+align-content: flex-start;
+
+Fase 21
+align-content: flex-end;
+
+Fase 22
+flex-direction: column-reverse;
+align-content: center;
+
+Fase 23
+flex-flow: column-reverse wrap-reverse;
+align-items: flex-end;
+justify-content: center;
+align-content: space-between;
+*/
