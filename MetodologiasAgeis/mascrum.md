@@ -12,14 +12,13 @@ ___
 
 ## Sprint Planning
 
-- Esse evento é focado no planejamento e é realizado por toda a equipe. É a primeira coisa a se fazer após iniciar uma nova sprint, o   Product Owner tem como propósito analisar o Backlog do produto e planejar a sprint junto com sua equipe.  
-O Scrum Master assume as responsabilidades a respeito da Scrum, assegura a duração das reuniões, orientando os membros.  
-Já os desenvolvedores devem pegar itens do Backlog do produto e realizar suas entregas, cumprindo metas e prazos.   
-As histórias de usuário são importantes para se aproximar mais do cliente e definir quais tarefas tem uma prioridade maior dentro do projeto.
+- Esse evento é focado no planejamento e é realizado por toda a equipe, o Product Owner tem como propósito analisar o Backlog do produto e planejar a sprint junto com sua equipe, o Scrum Master assume as responsabilidades a respeito da Scrum, assegura a duração das reuniões, orientando os membros. Já os desenvolvedores devem pegar itens do Backlog do produto e realizar suas entregas, cumprindo metas e prazos.   
+Também é utilizado as histórias de usuário que são importantes para se aproximar mais do cliente e definir quais tarefas tem uma prioridade maior dentro do projeto.
+
 
 ## Daily Scrum
 
-- Todos os dias acontece uma curta reunião com os membros do projeto, onde cada um conta no que está trabalhando e o que ele produziu após a última daily, nessa reunião também é possível lamentar alguma dificuldade durante o trabalho.
+- Todos os dias acontece uma curta reunião com os membros do projeto, onde cada um conta no que está trabalhando e o que ele produziu após a última daily, nessa reunião também é possível lamentar alguma dificuldade enfrentada durante o trabalho.
 
 ## Sprint Review
 
