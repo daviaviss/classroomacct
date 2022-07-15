@@ -1,6 +1,8 @@
 # Classroom ACCT
 Exercicios e tópicos estudados no classroom da ACCT.
 
+___
+
 ## Módulo 1
 
 **Tópico 1.1**
@@ -48,6 +50,8 @@ APIs e Postman, permite a comunicação e integração entre sistemas, o Postman
 
 **Tópico 2.6.1**
 APIs VTEX, aprendendo a manipular APIs integradas com o sistema da VTEX.
+
+___
 
 ## Módulo 3
 
